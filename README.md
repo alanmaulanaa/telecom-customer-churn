@@ -14,4 +14,4 @@ Analysis Performed :
 - Source: IBM Cognos Analytics.
 - License: Public Domain.
 
-This analysis is intended as an assignment for the Google Data Analytics program.
+**This analysis is intended as an assignment for the Google Data Analytics program.**
