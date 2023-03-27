@@ -10,6 +10,8 @@ Analysis Performed :
 4. What seem to be the key drivers of customer churn?
 5. Is the company losing high value customers? If so, how can they retain them?
 
-- Datasets Source : https://www.mavenanalytics.io/data-playground
-- Source: IBM Cognos Analytics
-- License: Public Domain
+- Datasets Source : https://www.mavenanalytics.io/data-playground.
+- Source: IBM Cognos Analytics.
+- License: Public Domain.
+
+This analysis is intended as an assignment for the Google Data Analytics program.
