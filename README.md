@@ -9,7 +9,7 @@ _1. Find the percentages of customers in each customer category (churned, stayed
 _2. What seem to be the key drivers of customer churn?_  
 _3. Identify the causes of customers churning_  
 _4. What is the customer profile for a customer that churned, joined, and stayed? Are they different?_  
-_5. Is the company losing high value customers? If so, how can they retain them?_  
+_5. Is the company losing high value customers?_  
 
 - Datasets Source : https://www.mavenanalytics.io/data-playground.
 - Source: IBM Cognos Analytics.
